@@ -1,0 +1,11 @@
+.sidebar-toggle {
+    font-size: 24px; /* 增大字体大小 */
+    padding: 10px; /* 调整内边距 */
+    width: 50px; /* 调整按钮宽度 */
+    height: 50px; /* 调整按钮高度 */
+  }
+  
+  .sidebar-toggle:before {
+    font-size: 24px; /* 调整按钮图标大小 */
+  }
+  
